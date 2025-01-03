@@ -1,0 +1,15 @@
+## Interface: 110002
+## Title: Unlucky
+## Notes: Did you die? Unlucky, nothing you could have done.
+## Author: Luke Willis
+## Version: 1.0.0
+## X-Curse-Project-ID: 999999
+## SavedVariables: UnluckyDB
+
+Unlucky_Core.lua
+Unlucky_Types.lua
+Unlucky_Spells.lua
+Unlucky_Excuses.lua
+Unlucky_AbilityTracker.lua
+Unlucky_Test.lua
+Unlucky.lua
